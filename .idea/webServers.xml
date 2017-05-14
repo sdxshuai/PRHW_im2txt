@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="sftp://zhouxs@166.111.64.126:8829/home/zhouxs/anaconda3/envs/py2/bin/python" name="sftp://zhouxs@166.111.64.126:8829/home/zhouxs/anaconda3/envs/py2/bin/python">
+        <fileTransfer host="166.111.64.126" port="8829" accessType="SFTP">
+          <option name="port" value="8829" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="PRHW_im2txt on server 'X29'" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="PRHW_im2txt on server 'X29'">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/PRHW_im2txt" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="sftp://zhouxs@166.111.64.126:8829/home/zhouxs/anaconda3/envs/py2/bin/python">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zhouxs/PRHW_im2txt" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+  </component>
+</project>
